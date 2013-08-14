@@ -970,7 +970,7 @@
     <string name="location_access_summary" msgid="69031404093194341">"Cho phép các ứng dụng đã yêu cầu sự cho phép của bạn sử dụng thông tin vị trí của bạn"</string>
     <string name="location_sources_heading" msgid="1278732419851088319">"Nguồn thông tin vị trí"</string>
     <string name="about_settings" product="tablet" msgid="593457295516533765">"Giới thiệu về máy tính bảng"</string>
-    <string name="about_settings" product="default" msgid="1743378368185371685">"Giới thiệu về điện thoại"</string>
+    <string name="about_settings" product="default" msgid="1743378368185371685">"Thông tin về điện thoại"</string>
     <string name="about_settings_summary" msgid="3371517697156165959">"Xem thông tin pháp lý, trạng thái, phiên bản phần mềm"</string>
     <string name="legal_information" msgid="5769301644270604095">"Thông tin pháp lý"</string>
     <string name="contributors_title" msgid="5917703088825286504">"Người đóng góp"</string>
